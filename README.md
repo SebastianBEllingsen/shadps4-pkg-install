@@ -31,6 +31,8 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/3.png" width="400">
   <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/4.png" width="400">
 </p>
+# INSTALL GAMES AND UPDATE
+# I downloaded my pkg (aquired legally) then checked out to latest tag on shadps4 repo, remember to run "git submodule update --init --recursive" for the submodules needed for the newer tag. Afterwards just rebuild according to shadps4 instructions and you will have the game installed in the newest version. The last version before they removed pkg-install is 0.7.0.
 
 # General information
 
